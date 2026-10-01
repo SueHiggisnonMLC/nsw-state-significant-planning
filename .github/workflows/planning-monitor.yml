@@ -1,0 +1,49 @@
+name: NSW State Significant Planning Monitor
+
+on:
+  schedule:
+    - cron: "4,14,24,34,44,54 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nsw-state-significant-planning-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Planning Portal monitor
+        env:
+          PLANNING_SLACK_WEBHOOK: ${{ secrets.PLANNING_SLACK_WEBHOOK }}
+        run: python planning_monitor.py
+
+      - name: Save updated planning state
+        run: |
+          git config user.name "NSW Planning Monitor"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add planning_state.json
+
+          if git diff --cached --quiet; then
+            echo "No planning state change to save."
+          else
+            git commit -m "Update planning monitor state"
+            git push
+          fi
