@@ -5,7 +5,9 @@
       "assessment_type": "SSD Modifications",
       "development_type": "Minerals Mining",
       "lga": "Bland Shire",
-      "notified_milestones": [],
+      "notified_milestones": [
+        "Determination"
+      ],
       "title": "Read more",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/cowal-gold-mod11-extension-modification"
     },
