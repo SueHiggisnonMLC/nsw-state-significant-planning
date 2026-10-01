@@ -1,4 +1,85 @@
 {
-  "initialised": false,
-  "projects": {}
+  "initialised": true,
+  "projects": {
+    "DA80/952-Mod-6": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Coal Mining",
+      "lga": "Singleton Shire",
+      "notified_milestones": [
+        "Recommendation"
+      ],
+      "title": "Modification 6 to Store & transfer water",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/modification-6-store-transfer-water"
+    },
+    "MP06_0334-Mod-4": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Extractive industries",
+      "lga": "Griffith City",
+      "notified_milestones": [
+        "Recommendation"
+      ],
+      "title": "Tharbogang Quarry and Landfill MOD 4 - Annual landfilling tonnage increase",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/tharbogang-quarry-and-landfill-mod-4-annual-landfilling-tonnage-increase"
+    },
+    "MP10_0054-Mod-7": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Minerals Mining",
+      "lga": "Queanbeyan-Palerang Regional",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "Dargues MOD 7 - Biodiversity Offsets",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/dargues-mod-7-biodiversity-offsets"
+    },
+    "SSD-12469087-Mod-4": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Extractive industries",
+      "lga": "Goulburn Mulwaree",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "Gunlake Quarry MOD 4 Secondary Transport Route",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/gunlake-quarry-mod-4-secondary-transport-route"
+    },
+    "SSD-141889240": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Coal Mining",
+      "lga": "Wollongong City, Campbelltown, Wollondilly Shire",
+      "notified_milestones": [
+        "SEARs"
+      ],
+      "title": "Metropolitan Continuation Project",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/metropolitan-continuation-project"
+    },
+    "SSD-144289240": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Data Storage",
+      "lga": "Wagga Wagga City",
+      "notified_milestones": [
+        "SEARs"
+      ],
+      "title": "Ashfords Road Data Centre, Gregadoo",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/ashfords-road-data-centre-gregadoo"
+    },
+    "SSD-5765": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Minerals Mining",
+      "lga": "Mid-Western Regional",
+      "notified_milestones": [
+        "Recommendation"
+      ],
+      "title": "Bowdens Silver",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/bowdens-silver"
+    },
+    "SSI-144719990": {
+      "assessment_type": "State Significant Infrastructure",
+      "development_type": "Gas supply",
+      "lga": "Upper Lachlan Shire, Goulburn Mulwaree",
+      "notified_milestones": [
+        "SEARs"
+      ],
+      "title": "Kerrawary Power Station - Lateral Gas Pipeline",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/kerrawary-power-station-lateral-gas-pipeline"
+    }
+  }
 }
