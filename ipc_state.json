@@ -1,4 +1,141 @@
 {
-  "initialised": false,
-  "cases": {}
+  "cases": {
+    "https://www.ipcn.nsw.gov.au/cases/angus-place-colliery-modification": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "referral"
+      ],
+      "project_id": "MP06_0021",
+      "title": "Angus Place Colliery Modification"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/bombo-quarry-site-rehabilitation-works-request-ministerial-call": {
+      "category": "Request for advice",
+      "notified_milestones": [
+        "consultation",
+        "decision"
+      ],
+      "project_id": "SSD-30759158",
+      "title": "Bombo Quarry Site Rehabilitation Works - Request for Ministerial Call-in"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/chain-valley-colliery-consolidation-project": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "hearing_request",
+        "referral"
+      ],
+      "project_id": "SSD-17017460",
+      "title": "Chain Valley Colliery Consolidation Project"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/deniliquin-battery-energy-storage-system": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision"
+      ],
+      "project_id": "SSD-72258210",
+      "title": "Deniliquin Battery Energy Storage System"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/homebush-battery-energy-storage-system-bess": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-77443244",
+      "title": "Homebush Battery Energy Storage System (BESS)"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/hume-north-battery-energy-storage-system": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-61842974",
+      "title": "Hume North Battery Energy Storage System"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/hvo-north-and-south-open-cut-coal-continuation-projects": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "hearing_request",
+        "referral"
+      ],
+      "project_id": "SSD-11826681 & SSD-11826621",
+      "title": "HVO North and South Open Cut Coal Continuation Projects"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/kingswood-battery-energy-storage-system": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-63207219",
+      "title": "Kingswood Battery Energy Storage System"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/liverpool-range-quarry": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-68063715",
+      "title": "Liverpool Range Quarry"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/maules-creek-continuation-project": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "hearing_request"
+      ],
+      "project_id": "SSD-63428218",
+      "title": "Maules Creek Continuation Project"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/moolarben-coal-complex-oc3-extension-project": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "hearing_request",
+        "referral"
+      ],
+      "project_id": "SSD-33083358",
+      "title": "Moolarben Coal Complex OC3 Extension Project"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/steel-river-east-battery-energy-storage-system-bess": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-77450458",
+      "title": "Steel River East Battery Energy Storage System (BESS)"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/wilpinjong-coal-mine-continuation-project-gateway-certificate-application": {
+      "category": "Mining and Petroleum Gateway Panel",
+      "notified_milestones": [
+        "consultation"
+      ],
+      "project_id": "MP08_0249-Mod-5",
+      "title": "Wilpinjong Coal Mine Continuation Project - Gateway Certificate Application"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/yanco-battery-energy-storage-system": {
+      "category": "Energy",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-67478479",
+      "title": "Yanco Battery Energy Storage System"
+    }
+  },
+  "initialised": true
 }
