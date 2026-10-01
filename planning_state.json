@@ -5,7 +5,9 @@
       "assessment_type": "SSD Modifications",
       "development_type": "Coal Mining",
       "lga": "Singleton Shire",
-      "notified_milestones": [],
+      "notified_milestones": [
+        "Recommendation"
+      ],
       "title": "Modification 6 to Store & transfer water",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/modification-6-store-transfer-water"
     },
@@ -13,7 +15,9 @@
       "assessment_type": "SSD Modifications",
       "development_type": "Extractive industries",
       "lga": "Griffith City",
-      "notified_milestones": [],
+      "notified_milestones": [
+        "Recommendation"
+      ],
       "title": "Tharbogang Quarry and Landfill MOD 4 - Annual landfilling tonnage increase",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/tharbogang-quarry-and-landfill-mod-4-annual-landfilling-tonnage-increase"
     },
@@ -61,7 +65,9 @@
       "assessment_type": "State Significant Development",
       "development_type": "Minerals Mining",
       "lga": "Mid-Western Regional",
-      "notified_milestones": [],
+      "notified_milestones": [
+        "Recommendation"
+      ],
       "title": "Bowdens Silver",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/bowdens-silver"
     },
