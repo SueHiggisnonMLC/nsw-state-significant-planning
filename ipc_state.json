@@ -15,7 +15,7 @@
         "consultation",
         "decision"
       ],
-      "project_id": "SSD-30759158",
+      "project_id": "SSD-63324208",
       "title": "Bombo Quarry Site Rehabilitation Works - Request for Ministerial Call-in"
     },
     "https://www.ipcn.nsw.gov.au/cases/chain-valley-colliery-consolidation-project": {
@@ -79,6 +79,16 @@
       "project_id": "SSD-63207219",
       "title": "Kingswood Battery Energy Storage System"
     },
+    "https://www.ipcn.nsw.gov.au/cases/lithgow-small-arms-factory-request-review-proposed-listing-state-heritage-register": {
+      "category": "Request for advice",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-77450458",
+      "title": "Lithgow Small Arms Factory - Request for review of proposed listing on the State Heritage Register"
+    },
     "https://www.ipcn.nsw.gov.au/cases/liverpool-range-quarry": {
       "category": "Mining and resources",
       "notified_milestones": [
@@ -108,6 +118,34 @@
       "project_id": "SSD-33083358",
       "title": "Moolarben Coal Complex OC3 Extension Project"
     },
+    "https://www.ipcn.nsw.gov.au/cases/northern-coal-logistics-modification-5": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "decision",
+        "referral"
+      ],
+      "project_id": "SSD-5145-Mod-5",
+      "title": "Northern Coal Logistics Modification 5"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/northern-coal-logistics-project-modification-4-cooranbong-coal-stockpile-extension": {
+      "category": "Mining and resources",
+      "notified_milestones": [
+        "consultation",
+        "referral"
+      ],
+      "project_id": "SSD-5145-Mod",
+      "title": "Northern Coal Logistics Project (Modification 4) - Cooranbong Coal Stockpile Extension"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/parkes-energy-recovery-facility": {
+      "category": "Request for advice",
+      "notified_milestones": [
+        "consultation",
+        "decision"
+      ],
+      "project_id": "SSD-77450458",
+      "title": "Parkes Energy Recovery Facility"
+    },
     "https://www.ipcn.nsw.gov.au/cases/steel-river-east-battery-energy-storage-system-bess": {
       "category": "Energy",
       "notified_milestones": [
@@ -123,7 +161,7 @@
       "notified_milestones": [
         "consultation"
       ],
-      "project_id": "MP08_0249-Mod-5",
+      "project_id": "SSD-11826681 & SSD-11826621",
       "title": "Wilpinjong Coal Mine Continuation Project - Gateway Certificate Application"
     },
     "https://www.ipcn.nsw.gov.au/cases/yanco-battery-energy-storage-system": {
