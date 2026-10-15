@@ -15,7 +15,7 @@
         "consultation",
         "decision"
       ],
-      "project_id": "SSD-63324208",
+      "project_id": "MP06_0021",
       "title": "Bombo Quarry Site Rehabilitation Works - Request for Ministerial Call-in"
     },
     "https://www.ipcn.nsw.gov.au/cases/chain-valley-colliery-consolidation-project": {
@@ -68,6 +68,15 @@
       ],
       "project_id": "SSD-11826681 & SSD-11826621",
       "title": "HVO North and South Open Cut Coal Continuation Projects"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/julius-avenue-data-centre": {
+      "category": "Industrial development",
+      "notified_milestones": [
+        "consultation",
+        "referral"
+      ],
+      "project_id": "Data",
+      "title": "Julius Avenue Data Centre"
     },
     "https://www.ipcn.nsw.gov.au/cases/kingswood-battery-energy-storage-system": {
       "category": "Energy",
@@ -161,7 +170,7 @@
       "notified_milestones": [
         "consultation"
       ],
-      "project_id": "SSD-11826681 & SSD-11826621",
+      "project_id": "SSD-63475709",
       "title": "Wilpinjong Coal Mine Continuation Project - Gateway Certificate Application"
     },
     "https://www.ipcn.nsw.gov.au/cases/yanco-battery-energy-storage-system": {
