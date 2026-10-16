@@ -15,7 +15,7 @@
         "consultation",
         "decision"
       ],
-      "project_id": "MP06_0021",
+      "project_id": "SSD-67478479",
       "title": "Bombo Quarry Site Rehabilitation Works - Request for Ministerial Call-in"
     },
     "https://www.ipcn.nsw.gov.au/cases/chain-valley-colliery-consolidation-project": {
@@ -168,10 +168,20 @@
     "https://www.ipcn.nsw.gov.au/cases/wilpinjong-coal-mine-continuation-project-gateway-certificate-application": {
       "category": "Mining and Petroleum Gateway Panel",
       "notified_milestones": [
-        "consultation"
+        "consultation",
+        "decision"
       ],
-      "project_id": "SSD-63475709",
+      "project_id": "SSD-8911",
       "title": "Wilpinjong Coal Mine Continuation Project - Gateway Certificate Application"
+    },
+    "https://www.ipcn.nsw.gov.au/cases/woolley-townhouse-request-advice-proposed-listing-state-heritage-register": {
+      "category": "Request for advice",
+      "notified_milestones": [
+        "consultation",
+        "decision"
+      ],
+      "project_id": "SSD-67478479",
+      "title": "Woolley Townhouse - Request for advice on proposed listing on State Heritage Register"
     },
     "https://www.ipcn.nsw.gov.au/cases/yanco-battery-energy-storage-system": {
       "category": "Energy",
