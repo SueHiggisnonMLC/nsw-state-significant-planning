@@ -1,6 +1,16 @@
 {
   "initialised": true,
   "projects": {
+    "DA504-00-Mod-11": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Coal Mining",
+      "lga": "Lithgow City",
+      "notified_milestones": [
+        "Recommendation"
+      ],
+      "title": "Modification 11 - Time Extension",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/modification-11-time-extension"
+    },
     "DA80/952-Mod-6": {
       "assessment_type": "SSD Modifications",
       "development_type": "Coal Mining",
