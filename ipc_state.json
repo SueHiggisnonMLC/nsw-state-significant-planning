@@ -152,7 +152,7 @@
         "consultation",
         "decision"
       ],
-      "project_id": "SSD-33083358",
+      "project_id": "SSD-55968733",
       "title": "Parkes Energy Recovery Facility"
     },
     "https://www.ipcn.nsw.gov.au/cases/steel-river-east-battery-energy-storage-system-bess": {
@@ -165,13 +165,22 @@
       "project_id": "SSD-77450458",
       "title": "Steel River East Battery Energy Storage System (BESS)"
     },
+    "https://www.ipcn.nsw.gov.au/cases/town-hall-square-request-advice-state-or-regional-planning-significance": {
+      "category": "Request for advice",
+      "notified_milestones": [
+        "consultation",
+        "referral"
+      ],
+      "project_id": "SSD-33083358",
+      "title": "Town Hall Square - Request for advice on State or regional planning significance"
+    },
     "https://www.ipcn.nsw.gov.au/cases/wilpinjong-coal-mine-continuation-project-gateway-certificate-application": {
       "category": "Mining and Petroleum Gateway Panel",
       "notified_milestones": [
         "consultation",
         "decision"
       ],
-      "project_id": "SSD-79146716",
+      "project_id": "SSD-77443244",
       "title": "Wilpinjong Coal Mine Continuation Project - Gateway Certificate Application"
     },
     "https://www.ipcn.nsw.gov.au/cases/woolley-townhouse-request-advice-proposed-listing-state-heritage-register": {
