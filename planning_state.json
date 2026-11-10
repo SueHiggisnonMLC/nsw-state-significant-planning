@@ -21,6 +21,16 @@
       "title": "Modification 6 to Store & transfer water",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/modification-6-store-transfer-water"
     },
+    "DA98/35-Mod-8": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Minerals Mining",
+      "lga": "Armidale Regional",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "MOD 8 - Short Term Extension",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/mod-8-short-term-extension"
+    },
     "MP06_0295-Mod-16": {
       "assessment_type": "SSD Modifications",
       "development_type": "Minerals Mining",
@@ -240,6 +250,16 @@
       ],
       "title": "Road 1 Data Centre",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/road-1-data-centre"
+    },
+    "SSD-88252722": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Extractive industries",
+      "lga": "Singleton Shire",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "East Quarry Extension Project",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/east-quarry-extension-project"
     },
     "SSI-144719990": {
       "assessment_type": "State Significant Infrastructure",
