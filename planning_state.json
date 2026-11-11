@@ -28,8 +28,8 @@
       "notified_milestones": [
         "Exhibition"
       ],
-      "title": "MOD 8 - Short Term Extension",
-      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/mod-8-short-term-extension"
+      "title": "Hillgrove Mine MOD 8 - Short Term Extension",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/hillgrove-mine-mod-8-short-term-extension"
     },
     "MP06_0295-Mod-16": {
       "assessment_type": "SSD Modifications",
@@ -220,6 +220,16 @@
       ],
       "title": "Rix's Creek North Continuation Project",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/rixs-creek-north-continuation-project"
+    },
+    "SSD-69637456-Mod-1": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Data Storage",
+      "lga": "City of Sydney",
+      "notified_milestones": [
+        "Recommendation"
+      ],
+      "title": "DigiCo SYD1 DC Mod 1 Minor Design Refinements",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/digico-syd1-dc-mod-1-minor-design-refinements"
     },
     "SSD-77991709": {
       "assessment_type": "State Significant Development",
