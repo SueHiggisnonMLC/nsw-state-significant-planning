@@ -201,6 +201,16 @@
       "title": "MOD 6 - Additional Service Corridor",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/mod-6-additional-service-corridor"
     },
+    "SSD-50436459": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Extractive industries",
+      "lga": "Oberon",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "Oberon Quarries Extension Project",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/oberon-quarries-extension-project"
+    },
     "SSD-5145-Mod-4": {
       "assessment_type": "SSD Modifications",
       "development_type": "Coal Mining",
@@ -310,6 +320,16 @@
       ],
       "title": "Kerrawary Power Station - Lateral Gas Pipeline",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/kerrawary-power-station-lateral-gas-pipeline"
+    },
+    "SSI-82522960": {
+      "assessment_type": "State Significant Infrastructure",
+      "development_type": "Gas supply",
+      "lga": "Unincorporated Far West",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "Bulloo Interlink Pipeline",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/bulloo-interlink-pipeline"
     }
   }
 }
