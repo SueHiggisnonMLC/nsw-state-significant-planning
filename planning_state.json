@@ -201,6 +201,16 @@
       "title": "Moolarben OC3 Extension Project",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/moolarben-oc3-extension-project"
     },
+    "SSD-41579871-Mod-3": {
+      "assessment_type": "SSD Modifications",
+      "development_type": "Minerals Mining",
+      "lga": "Bogan Shire",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "Modification 3 - Temporary Ore Transportation",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/modification-3-temporary-ore-transportation"
+    },
     "SSD-5012-Mod-6": {
       "assessment_type": "SSD Modifications",
       "development_type": "Minerals Mining",
@@ -310,6 +320,16 @@
       ],
       "title": "Road 1 Data Centre",
       "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/road-1-data-centre"
+    },
+    "SSD-82633224": {
+      "assessment_type": "State Significant Development",
+      "development_type": "Extractive industries",
+      "lga": "Goulburn Mulwaree",
+      "notified_milestones": [
+        "Exhibition"
+      ],
+      "title": "WSC Quarry Marulan",
+      "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/wsc-quarry-marulan"
     },
     "SSD-88252722": {
       "assessment_type": "State Significant Development",
